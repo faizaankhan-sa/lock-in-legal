@@ -1,6 +1,6 @@
 # Lock In — Terms of Use
 
-**Effective date:** 31 October 2026
+**Effective date:** 11 November 2026
 
 These terms are an agreement between you and Faizaan Khan, the developer of Lock In ("we", "us"). By using Lock In you agree to them. If you don't agree, please don't use the app. Our [Privacy Policy](privacy.md) explains how we handle your information.
 
@@ -25,7 +25,7 @@ Only share photos you have the right to share. Proof photos should show you work
 
 ## 4. No objectionable content or abusive users
 
-There's zero tolerance for objectionable content or abusive behaviour on Lock In. Don't use the app to:
+There's zero tolerance for objectionable content or abusive behaviour on Lock In, in photos and in comments. Don't use the app to:
 
 - send nudity, sexual content, violence, or anything hateful or illegal,
 - harass, bully, threaten or impersonate anyone,
@@ -33,11 +33,11 @@ There's zero tolerance for objectionable content or abusive behaviour on Lock In
 - spam people or send content unrelated to your task,
 - interfere with the app or its servers, or try to reach data that isn't yours.
 
-**Reporting and blocking:** you can report any photo sent to you, and block anyone, from inside the app. We review reports within 24 hours. We may remove content and suspend or delete accounts that break these terms, without notice. A reported photo counts as declined.
+**Reporting and blocking:** you can report any photo sent to you and any comment left on your proof, and block anyone, from inside the app. Comments are also checked automatically, and ones with abusive words are refused. We review reports within 24 hours. We may remove content and suspend or delete accounts that break these terms, without notice. A reported photo counts as declined.
 
 ## 5. Partners' reviews
 
-Partners decide whether your proof is approved or declined. A decline counts as a missed check. We don't step in on individual verdicts unless they break section 4. If a partner is being unfair, you can stop sharing the task with them, unfriend them or block them.
+Partners decide whether your proof is approved or declined, and can add a short comment. A decline counts as a missed check. Keep comments honest and kind. We don't step in on individual verdicts unless they break section 4. If a partner is being unfair, you can stop sharing the task with them, unfriend them or block them.
 
 ## 6. Availability
 

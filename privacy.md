@@ -1,6 +1,6 @@
 # Lock In — Privacy Policy
 
-**Effective date:** 31 October 2026
+**Effective date:** 11 November 2026
 
 Lock In is a focus timer that asks you for a photo at random moments during a session to prove you're working. This policy explains what information the app handles, where it goes, and the choices you have. It is written to meet South Africa's Protection of Personal Information Act (POPIA) and the App Store and Google Play rules.
 
@@ -41,20 +41,23 @@ An account lets you add friends and share tasks with them. You sign in with **Si
 You can share a task with one or more friends ("partners"). Only then, and only for that task, we store:
 
 - the task's title, and which friends are its partners,
-- each proof photo taken during that task's sessions, with the time the session started and the time the photo was taken,
-- each partner's verdict (approved or declined) and when it was given.
+- each proof photo taken during that task's sessions (blurred where you chose to blur it), with the time the session started and the time the photo was taken,
+- each partner's verdict (approved or declined), when it was given, and any comment they added (up to 200 characters).
 
-Only that task's partners can see its photos; your other friends cannot. Partners don't see each other. If nobody reviews a photo within 12 hours it is approved automatically. If you make a task private again, nothing more from it is uploaded.
+Only that task's partners can see its photos; your other friends cannot. Partners don't see each other. You see which partner gave each verdict and comment; nobody else sees a comment. If nobody reviews a photo within 12 hours it is approved automatically. If you make a task private again, nothing more from it is uploaded.
+
+Before a photo is sent, you can blur parts of it, such as a work screen. Only the blurred version is uploaded, and your phone keeps the blurred version too; the unblurred original is deleted.
 
 Before uploading, think about what's in the frame. Avoid photos of other people who haven't agreed to it, and of anything private.
 
 ## 4. Reports
 
-If someone reports a photo they were sent, we store the report: who made it, whose photo it was, which photo, the reason and when. We use reports only to keep Lock In safe, for example to remove content or accounts that break our [Terms of Use](terms.md). A reported photo is kept until we've reviewed the report, even if that's longer than 30 days.
+If someone reports a photo they were sent, or a comment left on their proof, we store the report: who made it, who it's about, which photo or comment, the reason and when. We use reports only to keep Lock In safe, for example to remove content or accounts that break our [Terms of Use](terms.md). A reported photo or comment is kept until we've reviewed the report, even if that's longer than 30 days.
 
 ## 5. How long we keep things
 
 - **Proof photos on our servers:** deleted 30 days after they're reviewed (or auto-approved). Photos under an open report are kept until the report is resolved.
+- **Partners' comments:** deleted from our servers 30 days after the review, unless the comment has been reported and the report is still open. Your phone keeps its own copy in History.
 - **Everything else linked to your account:** kept while you have the account.
 - **When you delete your account** (Account → Delete account, in the app): your profile, friends, blocks, shared tasks, photos, verdicts and push tokens are permanently deleted from our servers straight away. Reports you made or that were made about you are kept without anyone's name or photo, so we keep a record that a report happened.
 - **On your phone:** stays until you delete it or the app. Deleting your account doesn't erase your phone's own history.
