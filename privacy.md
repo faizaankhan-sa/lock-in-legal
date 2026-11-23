@@ -1,6 +1,6 @@
 # Lock In — Privacy Policy
 
-**Effective date:** 11 November 2026
+**Effective date:** 22 November 2026
 
 Lock In is a focus timer that asks you for a photo at random moments during a session to prove you're working. This policy explains what information the app handles, where it goes, and the choices you have. It is written to meet South Africa's Protection of Personal Information Act (POPIA) and the App Store and Google Play rules.
 
@@ -12,6 +12,7 @@ Lock In is a focus timer that asks you for a photo at random moments during a se
 - **Tasks are private by default.** A private task's title, sessions, photos and points never leave your phone, even if you have an account.
 - **Only what you choose to share is uploaded:** for a task you share with friends, its title and the proof photos from its sessions go to the friends you picked, so they can approve or decline them.
 - **Shared photos are deleted from our servers 30 days after they're reviewed.** Your phone keeps its own copy.
+- **Subscriptions are paid through Apple.** RevenueCat checks your subscription for us: it sees an anonymous ID and what you bought, never your name, tasks or photos.
 - **No ads, no analytics, no tracking, and we never sell your information.**
 - **You can delete your account in the app at any time**, and everything on our servers goes with it.
 
@@ -23,7 +24,7 @@ You don't need an account. In that case the app stores everything on your device
 - your session history, scores and streak,
 - the proof photos you take (camera only; the app never reads your photo library).
 
-The app uses your phone's notifications to schedule check reminders. These are created on your phone; no server is involved. None of this information is sent to us or anyone else. It is removed when you delete the app.
+The app uses your phone's notifications to schedule check reminders. These are created on your phone; no server is involved. None of this information is sent to us or anyone else. It is removed when you delete the app. The only thing the app sends without an account is the subscription check described in section 6: an anonymous ID and what you've bought.
 
 ## 2. If you create an account
 
@@ -60,6 +61,7 @@ If someone reports a photo they were sent, or a comment left on their proof, we 
 - **Partners' comments:** deleted from our servers 30 days after the review, unless the comment has been reported and the report is still open. Your phone keeps its own copy in History.
 - **Everything else linked to your account:** kept while you have the account.
 - **When you delete your account** (Account → Delete account, in the app): your profile, friends, blocks, shared tasks, photos, verdicts and push tokens are permanently deleted from our servers straight away. Reports you made or that were made about you are kept without anyone's name or photo, so we keep a record that a report happened.
+- **Subscription records (RevenueCat):** not linked to your Lock In account. Kept while needed to check your subscription and for accounting. Email us to have them deleted.
 - **On your phone:** stays until you delete it or the app. Deleting your account doesn't erase your phone's own history.
 
 ## 6. Who else handles your information
@@ -69,6 +71,7 @@ We use a small number of service providers who process information only to run t
 - **Supabase** stores account and shared-task data and photos. Its servers are in the EU (Stockholm, Sweden).
 - **Expo** delivers push notifications. Push tokens and notification text pass through Expo's service.
 - **Apple** (Sign in with Apple, Apple Push Notification service) and **Google** (Firebase Cloud Messaging, on Android) deliver sign-in and notifications.
+- **RevenueCat** checks your Lock In Pro subscription with Apple. It receives an anonymous ID created by the app, your Lock In purchases (which plan, and when it started, renews or ends) and basic device details such as the app version, country and language. It never receives your name, email, Lock In account, tasks or photos. Payments are made through Apple; we never see your card details.
 
 Because these providers are outside South Africa, your information is transferred abroad. We only use providers bound by data-protection laws and agreements that give a level of protection comparable to POPIA, such as the EU's GDPR.
 
