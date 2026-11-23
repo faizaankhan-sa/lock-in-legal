@@ -1,10 +1,10 @@
 # Lock In — Privacy Policy
 
-**Effective date:** 22 November 2026
+**Effective date:** 23 November 2026
 
 Lock In is a focus timer that asks you for a photo at random moments during a session to prove you're working. This policy explains what information the app handles, where it goes, and the choices you have. It is written to meet South Africa's Protection of Personal Information Act (POPIA) and the App Store and Google Play rules.
 
-**Who is responsible:** Faizaan Khan, the developer of Lock In, based in South Africa ("we", "us"). Contact: faizaankhan.us@gmail.com. This is also how to reach our Information Officer.
+**Who is responsible:** Faizaan Khan, the developer of Lock In, based in South Africa ("we", "us"). Contact: hello.lockinapp@gmail.com. This is also how to reach our Information Officer.
 
 ## The short version
 
@@ -90,11 +90,11 @@ Under POPIA you can:
 - object to how we process it, or withdraw your consent. Doing so means deleting your account, since the social features can't run without it,
 - complain to the **Information Regulator (South Africa)**: <https://inforegulator.org.za>.
 
-To use any of these rights, email faizaankhan.us@gmail.com. We'll reply within 30 days.
+To use any of these rights, email hello.lockinapp@gmail.com. We'll reply within 30 days.
 
 ## 9. Children
 
-You must be at least 13 to use Lock In's account features. If you're under 18, you need a parent's or guardian's permission to create an account. Without an account, nothing leaves the phone. If you believe a child has an account without permission, contact us and we'll delete it.
+Lock In is for people aged 18 and over. We don't knowingly collect information from anyone younger. If you believe someone under 18 has an account, contact us and we'll delete it.
 
 ## 10. Changes
 

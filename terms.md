@@ -1,6 +1,6 @@
 # Lock In — Terms of Use
 
-**Effective date:** 22 November 2026
+**Effective date:** 23 November 2026
 
 These terms are an agreement between you and Faizaan Khan, the developer of Lock In ("we", "us"). By using Lock In you agree to them. If you don't agree, please don't use the app. Our [Privacy Policy](privacy.md) explains how we handle your information.
 
@@ -23,7 +23,7 @@ Starting focus sessions needs a Lock In Pro subscription. Reviewing your friends
 
 ## 3. Your account
 
-- You must be at least 13 to create an account. If you're under 18, you need a parent's or guardian's permission.
+- You must be 18 or older to use Lock In.
 - Keep your sign-in secure. You're responsible for what happens on your account.
 - Pick a username that isn't offensive, misleading, or someone else's name or brand.
 - You can delete your account at any time in the app (Account → Delete account).
@@ -72,4 +72,4 @@ These terms are governed by the law of the Republic of South Africa.
 
 ## 12. Contact
 
-faizaankhan.us@gmail.com
+hello.lockinapp@gmail.com
