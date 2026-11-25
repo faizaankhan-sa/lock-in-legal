@@ -1,6 +1,6 @@
 # Lock In — Privacy Policy
 
-**Effective date:** 23 November 2026
+**Effective date:** 25 November 2026
 
 Lock In is a focus timer that asks you for a photo at random moments during a session to prove you're working. This policy explains what information the app handles, where it goes, and the choices you have. It is written to meet South Africa's Protection of Personal Information Act (POPIA) and the App Store and Google Play rules.
 
@@ -22,7 +22,8 @@ You don't need an account. In that case the app stores everything on your device
 
 - your tasks and settings,
 - your session history, scores and streak,
-- the proof photos you take (camera only; the app never reads your photo library).
+- the proof photos you take (camera only; the app never reads your photo library),
+- the date you first opened Lock In, to count your free week (kept in your phone's secure storage, which stays if you delete the app).
 
 The app uses your phone's notifications to schedule check reminders. These are created on your phone; no server is involved. None of this information is sent to us or anyone else. It is removed when you delete the app. The only thing the app sends without an account is the subscription check described in section 6: an anonymous ID and what you've bought.
 
@@ -71,7 +72,7 @@ We use a small number of service providers who process information only to run t
 - **Supabase** stores account and shared-task data and photos. Its servers are in the EU (Stockholm, Sweden).
 - **Expo** delivers push notifications. Push tokens and notification text pass through Expo's service.
 - **Apple** (Sign in with Apple, Apple Push Notification service) and **Google** (Firebase Cloud Messaging, on Android) deliver sign-in and notifications.
-- **RevenueCat** checks your Lock In Pro subscription with Apple. It receives an anonymous ID created by the app, your Lock In purchases (which plan, and when it started, renews or ends) and basic device details such as the app version, country and language. It never receives your name, email, Lock In account, tasks or photos. Payments are made through Apple; we never see your card details.
+- **RevenueCat** checks your Lock In Pro subscription with Apple. It receives an anonymous ID created by the app, your Lock In purchases (which plan, and when it started, renews or ends), when your Apple ID first downloaded Lock In (so the free week isn't repeated) and basic device details such as the app version, country and language. It never receives your name, email, Lock In account, tasks or photos. Payments are made through Apple; we never see your card details.
 
 Because these providers are outside South Africa, your information is transferred abroad. We only use providers bound by data-protection laws and agreements that give a level of protection comparable to POPIA, such as the EU's GDPR.
 

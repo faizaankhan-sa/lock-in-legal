@@ -1,6 +1,6 @@
 # Lock In — Terms of Use
 
-**Effective date:** 23 November 2026
+**Effective date:** 25 November 2026
 
 These terms are an agreement between you and Faizaan Khan, the developer of Lock In ("we", "us"). By using Lock In you agree to them. If you don't agree, please don't use the app. Our [Privacy Policy](privacy.md) explains how we handle your information.
 
@@ -12,11 +12,11 @@ Scores, streaks and verdicts are just for motivation. They have no monetary valu
 
 ## 2. Lock In Pro (subscription)
 
-Starting focus sessions needs a Lock In Pro subscription. Reviewing your friends' photos, your History and your account stay free, with or without one.
+Everything in Lock In is free for your first 7 days. After that, starting focus sessions needs a Lock In Pro subscription. Reviewing your friends' photos, your History and your account stay free, with or without one.
 
 - **Plans:** monthly or yearly. The price is shown in the app, in your currency, before you buy.
-- **Free trial:** new subscribers get 7 days free, once per Apple ID. If you don't cancel at least 24 hours before the trial ends, the subscription starts and you're charged.
-- **Payment and renewal:** payment is taken by Apple, through your Apple ID, when the trial ends (or when you buy, if there's no trial). The subscription renews automatically for the same period and price unless you turn it off at least 24 hours before the current period ends.
+- **Free week:** the 7 days start the first time you open Lock In and are counted per Apple ID, so deleting and reinstalling the app doesn't start a new week. Nothing is charged and nothing renews: when the week is over, you choose whether to subscribe.
+- **Payment and renewal:** payment is taken by Apple, through your Apple ID, when you subscribe. The subscription renews automatically for the same period and price unless you turn it off at least 24 hours before the current period ends.
 - **Cancelling:** in Settings → your name → Subscriptions on your iPhone, or from Account → Manage subscription in the app. You keep Lock In Pro until the end of the period you've paid for. Deleting the app or your Lock In account doesn't cancel the subscription.
 - **Refunds:** Apple handles refunds under its own policies (reportaproblem.apple.com). Your rights under the Consumer Protection Act aren't affected.
 - **Price changes:** if the price changes, Apple tells you first and, where its rules require, asks you to agree before you're charged the new price.

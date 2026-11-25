@@ -4,7 +4,7 @@ Need help, found a bug, or want to tell us something? Email **hello.lockinapp@gm
 
 ## Lock In Pro (subscription)
 
-- **What it is:** starting focus sessions needs Lock In Pro, monthly or yearly. New subscribers get a 7-day free trial, once per Apple ID. Reviewing your friends' photos, your History and your account stay free.
+- **What it is:** everything is free for your first 7 days, with nothing to sign up for. After that, starting focus sessions needs Lock In Pro, monthly or yearly. Reviewing your friends' photos, your History and your account stay free.
 - **Cancel:** on your iPhone, Settings → your name → Subscriptions → Lock In Pro, or in the app, Account → Manage subscription. Cancel at least 24 hours before it renews. You keep Lock In Pro until the end of the period you've paid for.
 - **Refunds:** Apple handles them at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 - **New phone or reinstalled the app:** tap **Restore purchases** (Account tab, or the Lock In Pro screen) while signed in to the same Apple ID.
